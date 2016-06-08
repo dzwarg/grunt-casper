@@ -36,7 +36,7 @@
     "grunt-cli": "~0.1.13"
   },
   "dependencies": {
-    "casperjs": "~1.1.0-beta3",
+    "casperjs": "~1.1.1",
     "duration": "~0.2.0",
     "lodash": "~2.4.1",
     "phantomjs-prebuilt": "~2.1.1",
