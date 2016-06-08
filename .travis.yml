@@ -7,7 +7,7 @@ env:
 before_install:
   - npm install -g npm
   - export PATH=$PATH:`pwd`/bin
-  - npm install -g phantomjs-prebuilt slimerjs casperjs=0.906.1
+  - npm install -g phantomjs-prebuilt slimerjs casperjs@0.906.1
   - phantomjs --version
   - slimerjs --version
   - casperjs --version
