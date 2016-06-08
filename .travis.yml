@@ -12,3 +12,4 @@ before_script:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
 # No addons, as FF is up to version 31 on travis-ci
+script: npm test
