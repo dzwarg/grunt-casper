@@ -40,6 +40,6 @@
     "duration": "~0.2.0",
     "lodash": "~2.4.1",
     "phantomjs-prebuilt": "~2.1.1",
-    "slimerjs": "^0.906.1"
+  "slimerjs": "~0.906.1"
   }
 }
