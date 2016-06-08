@@ -10,8 +10,5 @@ before_install:
   - cd -
 before_script:
   - "export DISPLAY=:99.0"
-  - phantomjs --version
-  - casperjs --version
   - "sh -e /etc/init.d/xvfb start"
-  - slimerjs --version
 # No addons, as FF is up to version 31 on travis-ci
