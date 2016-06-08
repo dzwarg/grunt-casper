@@ -1,8 +1,8 @@
-# grunt-casper [![Build Status](https://secure.travis-ci.org/iamchrismiller/grunt-casper.svg?branch=master)](http://travis-ci.org/iamchrismiller/grunt-casper)  [![Dependency Status](https://david-dm.org/iamchrismiller/grunt-casper.svg)](https://david-dm.org/iamchrismiller/grunt-casper.png) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/iamchrismiller/grunt-casper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# grunt-casper [![Build Status](https://secure.travis-ci.org/dzwarg/grunt-casper.svg?branch=master)](http://travis-ci.org/dzwarg/grunt-casper)  [![Dependency Status](https://david-dm.org/dzwarg/grunt-casper.svg)](https://david-dm.org/dzwarg/grunt-casper.png) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dzwarg/grunt-casper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 > Run CasperJS Scripts/Functional Tests
 
-If You need Casper 1.0 Support - Please Check out this [tag](https://github.com/iamchrismiller/grunt-casper/tree/1.0)
+If You need Casper 1.0 Support - Please Check out this [tag](https://github.com/dzwarg/grunt-casper/tree/1.0)
 *@note : You no longer need PhantomJS/CasperJS binaries installed. They are now managed by npm*
 
 ## Installation
