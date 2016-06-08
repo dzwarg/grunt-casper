@@ -1,7 +1,7 @@
 language: node_js
 node_js:
-  - "0.8"
   - "0.10"
+  - "0.12"
 env:
   - SLIMERJSLAUNCHER=$(which firefox) DISPLAY=:99.0 PATH=$TRAVIS_BUILD_DIR/slimerjs:$PATH
 before_install:
