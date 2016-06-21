@@ -4,13 +4,6 @@ node_js:
   - "0.12"
 env:
   - SLIMERJSLAUNCHER=$(which firefox) DISPLAY=:99.0 PATH=$TRAVIS_BUILD_DIR/slimerjs:$PATH
-before_install:
-  - npm install -g npm
-  - export PATH=$PATH:`pwd`/bin
-  - npm install -g phantomjs-prebuilt slimerjs@0.906.2 casperjs
-  - phantomjs --version
-  - slimerjs --version
-  - casperjs --version
 before_script:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"
